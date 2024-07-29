@@ -3,8 +3,7 @@
 - 🌱 Atualmente estou aprendendo sobre Machine Learning e desenvolvimento de aplicações de CyberSecurity
 - 💞️ Estou buscando colaborar em projetos de código aberto, especialmente aqueles que envolvem aprendizado de máquina e análise de dados.
 - 📫 Como me encontrar via LinkedIn ou e-mail.
-- 😄  Pronomes: ele/dele
-- ⚡  Curiosidade: Eu já participei de competições das Olimpiadas do Conhecimento https://worldskills.org/members/brazil/
+- ⚡  Curiosidade: Eu já participei das [Olimpiadas do Conhecimento](https://wsa.al.senai.br/)
 
 <!---
 profwsp/profwsp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
